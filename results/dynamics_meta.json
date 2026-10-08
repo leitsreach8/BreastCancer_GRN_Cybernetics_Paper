@@ -1,0 +1,31 @@
+{
+  "eta": 1.2,
+  "t_span": [
+    0.0,
+    12.0
+  ],
+  "n_ic": 40,
+  "n_linear_halves": 2,
+  "n_nonlinear_quantile_bands": 3,
+  "n_fixed_points": 1,
+  "fixed_point_projections": [
+    0.0
+  ],
+  "fixed_point_max_re_eig": [
+    -0.09563119742506243
+  ],
+  "perturbation_regularisation": 2.6998452360669114e-07,
+  "perturbation_unit_energy_regularised": 0.9099061005709728,
+  "perturbation_total_energy_regularised": 0.003081452009896587,
+  "perturbation_input_norm": 0.04230582340051854,
+  "perturbation_integrated_input_energy_T8": 0.014318261548766897,
+  "perturbation_start_projection": -0.005732718998592821,
+  "perturbation_end_projection": 0.003417716921069126,
+  "perturbation_target_projection": 0.005819949813117981,
+  "perturbation_displacement_fraction": 0.7920625154930659,
+  "perturbation_full_state_relative_error": 1.3628167520082743,
+  "uncontrolled_end_projection": -0.0005385620852807078,
+  "uncontrolled_median_cross_time": 8.0,
+  "perron_projection_low": -0.005732718998592819,
+  "perron_projection_high": 0.0058199498131179805
+}

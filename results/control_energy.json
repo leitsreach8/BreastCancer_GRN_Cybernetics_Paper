@@ -1,0 +1,18 @@
+{
+  "system_size_N": 99,
+  "kernel_size_K": 60,
+  "n_min_driver_channels": 24,
+  "controllable_subspace_dim": 75,
+  "gramian_rank": 75,
+  "gramian_regularisation": 2.6998452360669114e-07,
+  "gramian_cond": 1691046152096.4897,
+  "gramian_effective_rank": 74.0,
+  "gramian_max_eig": 1.6910461520964897,
+  "gramian_min_eig_reachable": 3.0564967006575234e-08,
+  "gramian_dynamic_range_reachable": 55326287.50205117,
+  "gramian_min_eig_floored": 1e-12,
+  "gramian_cond_floor": 1691046152096.4897,
+  "gramian_cond_floor_threshold": 1e-12,
+  "energy_top10_trace_share": 0.2575876090383338,
+  "energy_spectrum_dynamic_range": 55326287.50205117
+}

@@ -1,0 +1,20 @@
+{
+  "n": 1979,
+  "events": 803,
+  "coxph_global_p": 1.069e-21,
+  "schoenfeld_p": {
+    "CS": 1.991e-14,
+    "ER": 1.3283e-21,
+    "PR": 7.4418e-15,
+    "HER2": 0.0054,
+    "grade_z": 9.4501e-08,
+    "age_z": 0.0002
+  },
+  "cs_logtime_interaction": [-0.6616, 0.0371, 4.3419e-71],
+  "period_specific_CS_HR": {
+    "period1_0_24m": [1.6509, 7.4696e-13, 7.1706],
+    "period2_24_60m": [1.2944, 0.0001, 3.8138],
+    "period3_gt60m": [0.9104, 0.1385, -1.4815]
+  },
+  "note": "Schoenfeld residual tests (survival::cox.zph) reject the PH assumption for every covariate except HER2 and age; for CS p = 1.991e-14 and for the global test p = 1.069e-21. The CS x log(1+t) interaction and period-specific HRs (period 1: 0-24, 2: 24-60, 3: >60 months) characterise the time-dependence of the CS effect; period p-values are Wald tests of the period-specific CS coefficient against HR = 1. HRs above 1 indicate that higher CS carries higher hazard in that period."
+}

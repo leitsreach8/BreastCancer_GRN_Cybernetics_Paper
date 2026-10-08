@@ -1,0 +1,7 @@
+{
+  "n_iter": 4000,
+  "burn": 1000,
+  "ess_min": 373.5762621083756,
+  "ess_median": 1166.7909374971903,
+  "note": "ESS from lag-1 autocorrelation of the post-burnin chain; no formal R-hat available for a single chain"
+}

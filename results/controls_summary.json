@@ -1,0 +1,8 @@
+{
+  "cs_logrank_p": 1.543436639674507e-11,
+  "n_random_sets": 2000,
+  "panel99_equal_n_better": 265,
+  "panel99_equal_frac_better": 0.1325,
+  "panel99_rank_n_better": 212,
+  "panel99_rank_frac_better": 0.106
+}

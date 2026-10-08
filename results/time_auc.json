@@ -1,0 +1,52 @@
+{
+  "time_points_months": [
+    12,
+    36,
+    60,
+    120
+  ],
+  "rows": [
+    {
+      "t_months": 12,
+      "model": "M0_clinical",
+      "ipcw_auc": 0.640039031739462
+    },
+    {
+      "t_months": 12,
+      "model": "M0_plus_CS",
+      "ipcw_auc": 0.6471014498239549
+    },
+    {
+      "t_months": 36,
+      "model": "M0_clinical",
+      "ipcw_auc": 0.6516493172252308
+    },
+    {
+      "t_months": 36,
+      "model": "M0_plus_CS",
+      "ipcw_auc": 0.6763030711850146
+    },
+    {
+      "t_months": 60,
+      "model": "M0_clinical",
+      "ipcw_auc": 0.6350299218656492
+    },
+    {
+      "t_months": 60,
+      "model": "M0_plus_CS",
+      "ipcw_auc": 0.6546724382380196
+    },
+    {
+      "t_months": 120,
+      "model": "M0_clinical",
+      "ipcw_auc": 0.5941563987572385
+    },
+    {
+      "t_months": 120,
+      "model": "M0_plus_CS",
+      "ipcw_auc": 0.6230784544664708
+    }
+  ],
+  "estimator": "Uno IPCW time-dependent AUC; censoring distribution estimated by KM",
+  "note": "Risk models are fitted on the full analysis cohort (in-sample); the AUCs are therefore descriptive, not cross-validated, and ties in the risk score contribute 0.5"
+}
