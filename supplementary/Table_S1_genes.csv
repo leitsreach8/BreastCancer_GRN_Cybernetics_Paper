@@ -1,0 +1,100 @@
+gene_symbol,regulatory_axis
+ESR1,endocrine / ER signalling
+ESR2,endocrine / ER signalling
+PGR,endocrine / ER signalling
+AR,endocrine / ER signalling
+TFF1,endocrine / ER signalling
+ERBB2,growth factor / ERBB signalling
+ERBB3,growth factor / ERBB signalling
+EGFR,growth factor / ERBB signalling
+EGF,growth factor / ERBB signalling
+HBEGF,growth factor / ERBB signalling
+IGF1R,growth factor / ERBB signalling
+GRB2,growth factor / ERBB signalling
+SHC1,growth factor / ERBB signalling
+NRAS,growth factor / ERBB signalling
+KRAS,growth factor / ERBB signalling
+BRAF,growth factor / ERBB signalling
+MAP2K1,growth factor / ERBB signalling
+MAP2K2,growth factor / ERBB signalling
+MAPK1,growth factor / ERBB signalling
+MAPK3,growth factor / ERBB signalling
+PIK3CA,PI3K / AKT / mTOR
+PIK3R1,PI3K / AKT / mTOR
+PIK3R2,PI3K / AKT / mTOR
+AKT1,PI3K / AKT / mTOR
+AKT2,PI3K / AKT / mTOR
+AKT3,PI3K / AKT / mTOR
+PTEN,PI3K / AKT / mTOR
+MTOR,PI3K / AKT / mTOR
+RPS6KB1,PI3K / AKT / mTOR
+RPS6KA1,PI3K / AKT / mTOR
+RPS6KA2,PI3K / AKT / mTOR
+RPS6KA3,PI3K / AKT / mTOR
+MKI67,cell cycle / proliferation
+TOP2A,cell cycle / proliferation
+CCNA2,cell cycle / proliferation
+CCNB1,cell cycle / proliferation
+CCNB2,cell cycle / proliferation
+CCND1,cell cycle / proliferation
+CCND2,cell cycle / proliferation
+CCNE1,cell cycle / proliferation
+CDK1,cell cycle / proliferation
+CDC20,cell cycle / proliferation
+CDC25A,cell cycle / proliferation
+CDC25B,cell cycle / proliferation
+CDC25C,cell cycle / proliferation
+BUB1,cell cycle / proliferation
+AURKA,cell cycle / proliferation
+PLK1,cell cycle / proliferation
+MCM2,cell cycle / proliferation
+MCM3,cell cycle / proliferation
+MCM4,cell cycle / proliferation
+MCM5,cell cycle / proliferation
+MCM6,cell cycle / proliferation
+MCM7,cell cycle / proliferation
+MYBL2,cell cycle / proliferation
+CENPI,cell cycle / proliferation
+TP53,TP53 / apoptosis
+MDM2,TP53 / apoptosis
+CDKN1A,TP53 / apoptosis
+BAX,TP53 / apoptosis
+BAD,TP53 / apoptosis
+BCL2,TP53 / apoptosis
+CASP3,TP53 / apoptosis
+CASP8,TP53 / apoptosis
+CASP9,TP53 / apoptosis
+ATM,TP53 / apoptosis
+CDH1,EMT / adhesion / invasion
+CDH2,EMT / adhesion / invasion
+CDH3,EMT / adhesion / invasion
+FN1,EMT / adhesion / invasion
+L1CAM,EMT / adhesion / invasion
+TUBB3,EMT / adhesion / invasion
+VEGFA,angiogenesis / hypoxia
+VEGFB,angiogenesis / hypoxia
+VEGFC,angiogenesis / hypoxia
+HIF1A,angiogenesis / hypoxia
+HIF1AN,angiogenesis / hypoxia
+CXCR4,angiogenesis / hypoxia
+CXCL8,angiogenesis / hypoxia
+JAK1,JAK-STAT / immune
+JAK2,JAK-STAT / immune
+JAK3,JAK-STAT / immune
+STAT1,JAK-STAT / immune
+STAT3,JAK-STAT / immune
+STAT5A,JAK-STAT / immune
+STAT5B,JAK-STAT / immune
+FGFR1,FGFR / retinoic acid
+FGFR2,FGFR / retinoic acid
+FGFR3,FGFR / retinoic acid
+FGFR4,FGFR / retinoic acid
+RARA,FGFR / retinoic acid
+RARB,FGFR / retinoic acid
+RXRA,FGFR / retinoic acid
+MYC,misc growth regulators
+IGFBP2,misc growth regulators
+IGFBP3,misc growth regulators
+ERRFI1,misc growth regulators
+RASA1,misc growth regulators
+CXCR2,misc growth regulators

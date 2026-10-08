@@ -1,0 +1,19 @@
+{
+  "n_samples": 1980,
+  "p_genes": 99,
+  "alpha": 0.34533760554584286,
+  "n_edges_thresholded": 139,
+  "density_thresholded": 0.02865388579674294,
+  "pcorr_threshold": 0.05,
+  "n_edges_weighted": 317,
+  "density_weighted": 0.06534735106163678,
+  "mean_stability_floor": 0.9472555205047318,
+  "n_edges_stable_80_floor": 283,
+  "frac_edges_stable_80_floor": 0.8927444794952681,
+  "mean_stability_threshold": 0.44176656151419563,
+  "median_stability_threshold": 0.16,
+  "n_edges_stable_80_threshold": 120,
+  "frac_edges_stable_80_threshold": 0.3785488958990536,
+  "n_boot": 25,
+  "n_convergence_warnings_boot": 25
+}

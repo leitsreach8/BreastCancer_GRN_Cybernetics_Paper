@@ -1,0 +1,13 @@
+# Python dependencies with pinned versions used for the analyses
+# (Python 3.14; verified on macOS). BLAS/LAPACK: Accelerate framework.
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+networkx==3.7
+matplotlib==3.11.2
+pypdf==6.19.0
+
+# Optional (verification only)
+# R 4.5.2 with survival 3.8.3 was used to cross-check the Cox model
+# (see README, "Reproducibility and verification").

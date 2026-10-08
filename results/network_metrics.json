@@ -1,0 +1,21 @@
+{
+  "n_nodes": 99,
+  "n_edges": 317,
+  "n_components": 24,
+  "largest_component_size": 76,
+  "largest_component_edges": 317,
+  "cyclomatic_number": 242,
+  "n_communities": 27,
+  "mean_degree": 6.404040404040404,
+  "mean_clustering": 0.36937019496124474,
+  "lambda_max": 0.9043688025749372,
+  "lambda_min": -0.42239578229115177,
+  "spectral_radius": 0.9043688025749372,
+  "lambda_max_multiplicity": 1,
+  "max_algebraic_multiplicity": 24,
+  "zero_eigenvalue_multiplicity": 24,
+  "rank_weighted_A": 75,
+  "nullity_weighted_A": 24,
+  "n_min_driver_channels": 24,
+  "control_kernel_size": 60
+}

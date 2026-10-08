@@ -1,0 +1,23 @@
+{
+  "n_tcga_samples": 1097,
+  "shared_genes": 98,
+  "tcga_alpha": 0.3600690240080825,
+  "dense": {
+    "metabric_98gene_panel": 307,
+    "tcga": 355,
+    "overlap": 28,
+    "jaccard": 0.04416403785488959
+  },
+  "sparse": {
+    "metabric_98gene_panel": 135,
+    "tcga": 169,
+    "overlap": 6,
+    "jaccard": 0.020134228187919462
+  },
+  "thresholds": {
+    "dense_floor": 1e-12,
+    "sparse_floor": 0.05
+  },
+  "n_convergence_warnings": 1,
+  "note": "TCGA network estimated with the same GraphicalLassoCV protocol (cv=3, alphas=6) on 98 shared genes; edge thresholds identical to the METABRIC analysis"
+}
