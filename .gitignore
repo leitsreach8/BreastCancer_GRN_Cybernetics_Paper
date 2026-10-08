@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.aux
+*.out
+*.toc
+*.log
+.Rhistory
+.DS_Store
+logs_*.txt
